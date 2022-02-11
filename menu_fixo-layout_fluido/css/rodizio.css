@@ -1,0 +1,77 @@
+
+.topo {
+    background-image: url(../assets/temaki-rodizio.png);
+    height: 300px;
+    font-size: 25px;
+    font-family: Poppins;
+    font-style: italic;
+    color: #EEE3E1;
+    text-shadow: black 0.3em 0.3em 0.4em;
+    font-style: italic;
+    padding: 100px;
+
+}
+
+.rodizio-destaque li {
+    display: inline-block;
+    width: 45%;
+    vertical-align: top;
+    margin: 0 1.5%; 
+    border: 2px solid #EDC8B8; 
+    border-radius: 10px;
+    box-shadow: 10px 8px 8px -8px;
+    margin: 2px;
+}
+
+.rodizio-destaque h2 {
+    font-size: 30px;
+    color: #618F22;
+    font-family: 'poppins';
+    font-weight: bolder;
+    text-align: center;
+    line-height: 160%; 
+    padding: 5px;
+}
+
+.rodizio-destaque img {
+    width: 275px;
+    height: 150px;   
+    border-radius: 10px; 
+}
+
+.destaque-descricao {
+    font-size: 24px;
+    color: #F6BF47;
+    font-family: 'poppins';
+    font-weight: bold;
+    text-align: center;
+    padding: 5px;
+}
+
+.rodizio-item {
+    font-size: 16px;
+    color: #618F22;
+    font-family: 'poppins';
+    font-style: italic;
+    text-align: center;
+    padding: 1.5px;
+
+}
+
+.rodizio-preco {
+    font-family: Poppins;
+    font-size: 20px;
+    font-weight: bolder;
+    color: #F6BF47; 
+    text-align: left;
+    padding: 5px;
+}
+
+.icons-social{
+    margin-top: -35px;
+}
+
+
+
+
+
