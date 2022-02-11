@@ -52,7 +52,7 @@ nav a:hover {
 }  
 
 .icons-social{
-  background-image: url("/assets/vegetais.png");
+  background-image: url("./assets/vegetais.png");
   margin-top: 11px;
   font-family: roboto;
   color: #EEE3E1;
