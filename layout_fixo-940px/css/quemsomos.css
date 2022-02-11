@@ -1,0 +1,37 @@
+.img_topo {
+    height: 400px;
+    width: 690px;
+}
+
+.conteudo p {
+    font-size: 20px;
+    font-family: Poppins;
+    font-style: italic;
+    color: #618f22;
+    padding: 20px 10px 20px;
+    text-align: center;
+    width: 100%;
+}
+
+.conteudo li {
+    display: inline-block;
+}
+
+.poke {
+    width: 330px;
+    height: 278px;
+    text-align: left;
+
+}
+
+.hashi {
+    height: 300px;
+    width: 230px;
+    text-align: right;
+}
+
+
+footer {
+    margin-top: -12px;
+}
+

@@ -1,0 +1,84 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+
+  main {
+    background-color: #EEE3E1;
+    max-width: 940px;
+    height: auto;
+
+}
+
+.menu {
+    position: absolute;
+    width: 250px;
+    height: 869px;
+    text-align: center;
+    background: #D86036;
+}
+
+
+#logo {
+    height: 280px;
+    width: 250px;
+}
+
+.conteudo {
+    width: 690px;
+    margin-left: 250px;
+    text-align: CENTER;
+}
+
+nav a {
+    color: #EEE3E1;
+    line-height: 4.3;
+    font-size: 24px;
+    font-family: roboto;
+    font-weight: bold;
+    text-decoration: none;
+    transition: ease-in-out 0.5s;
+    transition: 1s all;
+}   
+
+ul {
+    list-style-type: none;
+  }
+
+nav a:hover {
+    color: #618F22;
+    transition: ease-in-out 0.5s
+}  
+
+.icons-social{
+  background-image: url(/assets/vegetais.png);
+  margin-top: 11px;
+  font-family: roboto;
+  color: #EEE3E1;
+  text-shadow: black 0.1em 0.1em 0.2em;
+  font-weight: bold;
+  font-size: 1.0rem;   
+  padding: 1px;
+  text-align: center;
+}
+.icons-social a{
+  text-decoration: none;
+  color: #EEE3E1;
+  width: 40px;
+  height: 40px;
+  border-radius: 20px;
+  display: inline;
+  margin: 0 10px;
+  text-align: center;
+  line-height: 40px;
+  font-size: 1rem;
+}
+
+.copyright {
+  font-size: 0.9rem; 
+}
+
+footer {
+  width: 940px;
+}
