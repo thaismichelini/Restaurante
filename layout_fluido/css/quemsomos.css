@@ -1,0 +1,47 @@
+/* .conteudo {
+    margin: 0 0 0 250px;
+    width: 690px;
+} */
+
+.conteudo {
+   /*  display: inline-block; */
+    width: 690px;
+    margin-left: 250px;
+}
+
+.img_topo {
+    height: 400px;
+    width: 690px;
+}
+
+.conteudo p {
+    font-size: 20px;
+    font-family: Roboto;
+    font-style: italic;
+    color: #618f22;
+    padding: 35px 20px 30px;
+    text-align: center;
+    width: 100%;
+}
+
+.conteudo li {
+    display: inline-block;
+}
+
+.poke {
+    width: 330px;
+    height: 278px;
+    text-align: left;
+}
+
+.hashi {
+    height: 300px;
+    width: 250px;
+    text-align: right;
+}
+
+footer {
+    margin-top: -11px;
+}
+
+
