@@ -9,12 +9,13 @@
 ### **O site possui as seguintes páginas:**
 
 - [X] <a url="https://thaismichelini.github.io/Restaurante/layout_fixo-940px/index.html">Home - Possui um bem vindo e 3 produtos em destaque;</a>
-- [X] <a url = "https://thaismichelini.github.io/Restaurante/layout_fixo-940px/quemsomos.html">Quem somos - Tela com descrição do restaurante;</a>
-- [X] <a url= "https://thaismichelini.github.io/Restaurante/layout_fixo-940px/cardapio.html">Cardápio - O box do produto nas listas contém a foto, nome, uma mini descrição e preço;</a>
-- [X] <a url= "https://thaismichelini.github.io/Restaurante/layout_fixo-940px/rodizio.html">Rodízio;</a>
-- [X] <a url= https://thaismichelini.github.io/Restaurante/layout_fixo-940px/contato.html">Contato (formulário com nome, email, mensagem e o botão) - mapa do google com a localização do restaurante.</a>
+- [X] <a url ="https://thaismichelini.github.io/Restaurante/layout_fixo-940px/quemsomos.html">Quem somos - Tela com descrição do restaurante;</a>
+- [X] <a url="https://thaismichelini.github.io/Restaurante/layout_fixo-940px/cardapio.html">Cardápio - O box do produto nas listas contém a foto, nome, uma mini descrição e preço;</a>
+- [X] <a url="https://thaismichelini.github.io/Restaurante/layout_fixo-940px/rodizio.html">Rodízio;</a>
+- [X] <a url="https://thaismichelini.github.io/Restaurante/layout_fixo-940px/contato.html">Contato (formulário com nome, email, mensagem e o botão) - mapa do google com a localização do restaurante.</a>
 
 ### **Versões:**
+
 - [X] <a url= "https://thaismichelini.github.io/Restaurante/layout_fixo-940px/index.html">Layout fixo com largura total de 940px alinhada a esquerda com menu possuindo 250px e o conteúdo 690px;</a>
 - [X] <a url= "https://thaismichelini.github.io/Restaurante/layout_fixo-centralizado/index.html">Layout fixo centralizado;</a>
 - [X] <a url= "https://thaismichelini.github.io/Restaurante/layout_fluido/index.html"Layout fluído: tanto o menu quanto o conteúdo;</a>
