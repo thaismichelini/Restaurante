@@ -1,0 +1,75 @@
+.conteudo {
+    display: inline-block;
+}
+
+form {
+    margin: 20px 0;
+    padding: 10px;
+}
+
+form p {
+    font-size: 17px;
+    font-family: Roboto;
+    color: #618F22; 
+    text-align: center;
+    font-weight: bold;
+    padding: 0 0 5px;
+}
+
+form label {
+    display: block;
+    font-size: 18px;
+    font-family: Roboto;
+    color: #618F22;
+    text-align: left;
+
+}
+
+.input {
+    display: block;
+    margin: 0 0 10px;
+    padding: 10px 25px;
+    width: 100%;
+    border-radius: 7px;
+    border: 1px solid #EDC8B8; 
+}
+
+.checkbox {
+    margin: 20px 0;
+}
+
+.enviar {
+    width: 30%;
+    padding: 15px 0;
+    background: #F6BF47;
+    color: #618F22;
+    font-weight: bold;
+    font-size: 18px;
+    border: none;
+    border-radius: 20px;
+    transition: 1s all;
+    cursor: pointer;
+}
+
+.enviar:hover {
+    transform: scale(1.1);
+}
+
+.contato {
+    font-size: 17px;
+    font-family: Roboto;
+    color: #618F22;
+    text-align: left;
+    margin-left: 20px;
+
+}
+.mapa {
+    margin: 17px;
+    border: 2px solid #EDC8B8; 
+    border-radius: 10px;
+}
+
+footer {
+    margin-top: -12px;
+}
+
