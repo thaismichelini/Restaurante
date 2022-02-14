@@ -31,8 +31,15 @@ form label {
     padding: 10px 25px;
     width: 100%;
     border-radius: 7px;
-    border: 1px solid #EDC8B8; 
+    border: 1px solid #EDC8B8;  
 }
+
+input::placeholder, textarea::placeholder {
+    color: #618F22;
+    font-family: Roboto;
+    font-size: 15px;
+    font-weight: initial;
+  }
 
 .checkbox {
     margin: 20px 0;
