@@ -114,14 +114,15 @@ input::placeholder {
     text-align: center;
     font-size: 15px;
     font-weight: initial;
-  }
+}
+
 form input[type="submit"]:hover {
     background: #618F22;
 }
 
 footer {
         margin-top: -13px;
-    }
+}
     
 
 
